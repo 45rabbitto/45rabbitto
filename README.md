@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">New to coding. Learning by doing, breaking, and trying again. Slowly getting better every day, i guesss...</h2>
+<h2 align="left">New to coding. Learning by doing, breaking, and trying again. Slowly getting better every day … I guess.</h2>
 
 ###
 <picture>
