@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Red%20is%20the%20color%20of%20love,%20and%20so%20is%20my%20terminal.&fontSize=36&fontColor=FFFFFF&fontAlign=51&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&reversal=false&text=Red%20is%20the%20color%20of%20love,%20and%20so%20is%20my%20terminal.&fontSize=36&fontColor=FFFFFF&fontAlign=51&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<img align="right" height="140" src="[https://upload-os-bbs.hoyolab.com/upload/2025/04/16/396925118/e094f4428bc1773bb291346294f0063a_5462858685955101041.gif](https://media.tenor.com/bas0R9XHwyUAAAAM/stop-hsr-robin.gif)"  />
+<img align="right" height="140" src="https://preview.redd.it/why-are-there-so-many-gifs-of-robin-acting-like-an-escaped-v0-pjf7ccrl0y9e1.gif?format=png8&s=7d9e9df4cc8689f35bf85a713c5da73f0bdc2fb8"  />
 
 ###
 
