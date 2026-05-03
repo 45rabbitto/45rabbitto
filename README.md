@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="140" src="https://upload-os-bbs.hoyolab.com/upload/2025/04/16/396925118/e094f4428bc1773bb291346294f0063a_5462858685955101041.gif"  />
+<img align="right" height="140" src="[https://upload-os-bbs.hoyolab.com/upload/2025/04/16/396925118/e094f4428bc1773bb291346294f0063a_5462858685955101041.gif](https://media.tenor.com/bas0R9XHwyUAAAAM/stop-hsr-robin.gif)"  />
 
 ###
 
