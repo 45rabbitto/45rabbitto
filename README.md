@@ -34,6 +34,9 @@
 
 ###
 
+<h2 align="left">New to coding. Learning by doing, breaking, and trying again. Slowly getting better every day, i guesss...</h2>
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/45rabbitto/45rabbitto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/45rabbitto/45rabbitto/output/pacman-contribution-graph.svg">
