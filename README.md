@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&reversal=false&text=Red%20is%20the%20color%20of%20love,%20and%20so%20is%20my%20terminal.&fontSize=36&fontColor=FFFFFF&fontAlign=51&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&text=Red%20is%20the%20color%20of%20love,%20and%20so%20is%20my%20terminal.&fontSize=36&fontColor=FFFFFF&fontAlign=51&fontAlignY=50&animation=fadeIn&color=0:E6DAFF,100:C8A2FF" />
 </div>
 
 ###
